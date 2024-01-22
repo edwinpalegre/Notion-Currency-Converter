@@ -2,6 +2,8 @@
 <head>
 </head>
 <body>
-  <!-- START CODE Attention! Do not modify this code; --><script>var fm = "CAD";var to = "USD,JPY,EUR,PHP,AED,ARS,AUD,BGN,BOB,BRL,CHF,CLP,CNY,COP,CRC,CZK,DKK,DOP,EGP,FJD,GBP,HKD,HUF,INR,JOD,KRW,KWD,MAD,MXN,MYR,NOK,NPR,NZD,OMR,PEN,PKR,PLN,PYG,QAR,RSD,RUB,SAR,SEK,SGD,SVC,THB,TRY,TWD,VND,ZAR";var tz = "timezone";var sz = "1x534";var lg = "en";var st = "default";var cd = 1;var am = 100</script><script src="//currencyrate.today/exchangerates"></script><div style="text-align:right"><a href="https://currencyrate.today">CurrencyRate</a></div><!-- Attention! Do not modify this code; END CODE -->
+  
+  <!-- START CODE Attention! Do not modify this code; --><script>var fm = "CAD";var to = "USD,EUR,JPY,PHP";var tz = "timezone";var sz = "1x238";var lg = "en";var st = "primary";var cd = 0;var am = 1</script><script src="//currencyrate.today/exchangerates"></script><div style="text-align:right"><a href="https://currencyrate.today">CurrencyRate</a></div><!-- Attention! Do not modify this code; END CODE -->
+
 </body>
 </html>
